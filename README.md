@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anamanuellar
-- 👀 I’m interested in getting experiences at IT sector.
+- 👀 I’m interested in getting experiences as Front End developer intern
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: ana.manuellar@gmail.com 
