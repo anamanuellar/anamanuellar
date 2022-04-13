@@ -1,4 +1,4 @@
-<img src="assinatura_manu.png" alt="android" width="40" height="40"/>
+<img src="Assinatura Manu.jpg" alt="android" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Ana Manuella</h1>
 <h3 align="center">I'm a passionate and begginer front end developer from Brazil.</h3>
