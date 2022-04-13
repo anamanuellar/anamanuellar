@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Forecast-Weather-App**
 
-- 🌱 I’m currently learning **React Native and React JS**
+- 🌱 I’m currently learning **Full Stack Development course** and at this point I have been fascinated about **React Native and React JS**
 
 - 📫 You can reach me at **ana.manuellar@gmail.com**
 
