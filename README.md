@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
-- 🔭 I’m currently working on **Forecast-Weather-App**
+- 🔭 I’m currently working on **Forecast-App**
 
 - 🌱 I’m currently learning **Full Stack Development course** and at this point I have been fascinated about **React Native and React JS**
 
