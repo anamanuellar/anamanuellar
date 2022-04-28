@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **ana.manuellar@gmail.com**
 
-- 📄 I am in **career transition** from Hospitality to Programming but you can know more about my experiences at (anamanuellar.github.io/cv_anamanuella/)
+- 📄 I am in **career transition** from Hospitality to Programming but you can know more about my experiences at my <a href="anamanuellar.github.io/cv_anamanuella/">**CV**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
