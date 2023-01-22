@@ -1,7 +1,7 @@
 <img src="Assinatura Manu.jpg" alt="android" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Ana Manuella</h1>
-<h3 align="center">I'm a passionate and begginer front end developer from Brazil.</h3>
+<h3 align="center">I'm a passionate Front-End Developer Junior from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
