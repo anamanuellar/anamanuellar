@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development course** and at this point I have been fascinated about creating website with **React JS**, app with **React Native** and analysing datas with **Pandas**
 
-- 📫 You can reach me at **ana.manuellar@gmail.com**
+- 📫 You can reach me at **ribeiro.anamanuella@gmail.com**
 
 - 📄 I am in **career transition** from Hospitality to Programming but you can know more about my experiences at my <a href="https://anamanuellar.github.io/CV_AnaManuella/">**CV**</a>
 
