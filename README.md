@@ -1,15 +1,15 @@
 <img src="Assinatura Manu.jpg" alt="android" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Ana Manuella</h1>
-<h3 align="center">I'm a passionate Front-End Developer Junior from Brazil.</h3>
+<h3 align="center">I'm a passionate junior front-end developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development course** and at this point I have been fascinated about creating website with **React JS**, app with **React Native** and analysing datas with **Pandas**
+- 🌱 I’m currently learning **Full Stack Development course** and I'm fascinated by creating websites with **React JS**, developing apps with **React Native** and analysing datas with **Pandas**
 
 - 📫 You can reach me at **ribeiro.anamanuella@gmail.com**
 
-- 📄 I am in **career transition** from Hospitality to Programming but you can know more about my experiences at my <a href="https://anamanuellar.github.io/CV_AnaManuella/">**CV**</a>
+- 📄 I am transitioning my career from hospitality to programming, and you can learn more about my experiences on my <a href="https://anamanuellar.github.io/CV_AnaManuella/">**CV**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
