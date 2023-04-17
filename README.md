@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
-- 🌱 I have just completed my 1-year **Full Stack Development course** and I'm fascinated by creating websites with **React JS**, developing apps with **React Native** and analysing datas with **Pandas**
+- 🌱 I have just completed my 1-year **Full Stack Development course** and I'm fascinated by creating websites with **React JS**, developing apps with **React Native** and analysing datas.
 
 - 📫 You can reach me at **ribeiro.anamanuella@gmail.com**
 
