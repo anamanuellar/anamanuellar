@@ -1,5 +1,5 @@
 <!-- Introdução -->
-<img src="Assinatura Manu.jpg" alt="android" width="100%"/>
+<img src="5.png" alt="android" width="100%"/>
 
 <!-- Portuguese Version -->
 <h1 align="center">Olá ! 👋 Eu sou a Ana Manuella</h1>
