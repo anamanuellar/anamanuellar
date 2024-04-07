@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
 <!-- Sobre mim / About Me -->
-- 🌱 **Concluí** o curso de **Desenvolvimento Full Stack** de 1 ano e estou fascinada por criar sites, aplicativos com **React** e analisar dados com **Python**.<br>
+- 🌱 **Concluí** o curso de **Desenvolvimento Full Stack** de 1 ano na Infinity School e estou fascinada por criar sites, aplicativos com **React** e analisar dados com **Python**.<br>
    <i>  (EN) I **completed** my 1-year **Full Stack Development course** at Infinity School and I'm fascinated by creating websites, apps with **React** and analyzing data with **Python**.</i> </small>
 
 - 🎓  Concluí o curso de **Desenvolvimento Front End** no Bootcamp Elas Na Tech em 2023.<br>
