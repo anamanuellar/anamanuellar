@@ -1,17 +1,30 @@
+<!-- Introdução -->
 <img src="Assinatura Manu.jpg" alt="android" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Ana Manuella</h1>
-<h3 align="center">I'm a passionate Junior Full-Stack Developer from Brazil.</h3>
+<!-- Portuguese Version -->
+<h1 align="center">Olá ! 👋 Eu sou a Ana Manuella</h1>
+<h3 align="center">Sou uma desenvolvedora Full-Stack Júnior apaixonada por criar soluções inovadoras.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamanuellar&label=Profile%20views&color=0e75b6&style=flat" alt="anamanuellar" /> </p>
 
-- 🌱 I have just completed my 1-year **Full Stack Development course** and I'm fascinated by creating websites with **React JS**, developing apps with **React Native** and analysing datas.
+<!-- Sobre mim / About Me -->
+- 🌱 **Concluí** o curso de **Desenvolvimento Full Stack** de 1 ano e estou fascinada por criar sites, aplicativos com **React** e analisar dados com **Python**.<br>
+   <i>  (EN) I **completed** my 1-year **Full Stack Development course** at Infinity School and I'm fascinated by creating websites, apps with **React** and analyzing data with **Python**.</i> </small>
 
-- 📫 You can reach me at **ribeiro.anamanuella@gmail.com**
+- 🎓  Concluí o curso de **Desenvolvimento Front End** no Bootcamp Elas Na Tech em 2023.<br>
+      <i> (EN) I completed the **Front End Development** course at Elas Na Tech Bootcamp in 2023.</i> 
 
-- 📄 I am transitioning my career from hospitality to programming, and you can learn more about my experiences on my <a href="https://anamanuellar.github.io/CV_AnaManuella/">**CV**</a>
+- 🎓 Atualmente estou cursando **Análise de Dados** no BootCamp da WOMAKERS Code.<br>
+      <i>  (EN) Currently, I'm enrolled in **Data Analysis** at WOMAKERS Code BootCamp.</i> 
 
-<h3 align="left">Connect with me:</h3>
+- 📫 Você pode me contatar pelo email: **ribeiro.anamanuella@gmail.com**<br>
+<i> (EN) You can reach me at: **ribeiro.anamanuella@gmail.com**</i> 
+
+- 📄 Estou realizando uma transição de carreira da área de hospitalidade para a programação. Você pode conhecer mais sobre minha trajetória no meu [Linkedin](https://www.linkedin.com/in/manu-ribeiro-dev).<br>
+  <i>  (EN) I'm transitioning my career from hospitality to programming, and you can learn more about my experiences on my [Linkedin](https://www.linkedin.com/in/manu-ribeiro-dev)</i>
+
+<!-- Conecte-se comigo / Connect with me -->
+<h3 align="left">Conecte-se comigo / Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ana-manuella-ribeiro-3591433a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-manuella-ribeiro-3591433a" height="30" width="40" /></a>
 <a href="https://instagram.com/rsmanu30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rsmanu30" height="30" width="40" /></a>
