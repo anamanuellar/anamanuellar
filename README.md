@@ -14,8 +14,8 @@
 - 🎓  Concluí o curso de **Desenvolvimento Front End** no Bootcamp Elas Na Tech em 2023.<br>
       <i> (EN) I completed the **Front End Development** course at Elas Na Tech Bootcamp in 2023.</i> 
 
-- 🎓 Atualmente estou cursando **Análise de Dados** no BootCamp da WOMAKERS Code.<br>
-      <i>  (EN) Currently, I'm enrolled in **Data Analysis** at WOMAKERS Code BootCamp.</i> 
+- 🎓 Concluí o curso de **Análise de Dados** no BootCamp da WOMAKERS Code.<br>
+      <i>  (EN) I completed the **Data Analysis** at WOMAKERS Code BootCamp.</i> 
 
 - 📫 Você pode me contatar pelo email: **ribeiro.anamanuella@gmail.com**<br>
 <i> (EN) You can reach me at: **ribeiro.anamanuella@gmail.com**</i> 
