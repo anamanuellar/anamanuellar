@@ -20,8 +20,8 @@
 - 📫 Você pode me contatar pelo email: **ribeiro.anamanuella@gmail.com**<br>
 <i> (EN) You can reach me at: **ribeiro.anamanuella@gmail.com**</i> 
 
-- 📄 Estou realizando uma transição de carreira da área de hospitalidade para a programação. Você pode conhecer mais sobre minha trajetória no meu [Linkedin](https://www.linkedin.com/in/manu-ribeiro-dev).<br>
-  <i>  (EN) I'm transitioning my career from hospitality to programming, and you can learn more about my experiences on my [Linkedin](https://www.linkedin.com/in/manu-ribeiro-dev)</i>
+- 📄 Estou realizando uma transição de carreira da área financeira para a programação. Você pode conhecer mais sobre minha trajetória no meu [Linkedin](https://www.linkedin.com/in/manu-ribeiro-dev).<br>
+  <i>  (EN) I'm transitioning my career from finance to programming, and you can learn more about my experiences on my [Linkedin](https://www.linkedin.com/in/manu-ribeiro-dev)</i>
 
 <!-- Conecte-se comigo / Connect with me -->
 <h3 align="left">Conecte-se comigo / Connect with me:</h3>
